@@ -41,9 +41,9 @@ This repository contains the materials and results for our replication study of 
   2. Upload `data/train.csv` and `data/test.csv` files to the Colab environment.
   3. Follow the instructions in the notebook to execute the cells.
 
-- **Latex File**  
-  `code/main.tex`  
-  This is our Latex source file for `papers/replication-paper.pdf`.
+- **Latex Project**  
+  `code/latex/`  
+  This is our Latex source folder for `papers/replication-paper.pdf`.
 
 
 ### Overleaf
