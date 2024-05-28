@@ -20,24 +20,24 @@ This repository contains the materials and results for our replication study of 
 
 ### Papers
 - **Original Paper**  
-  `original-paper.pdf`  
+  `papers/original-paper.pdf`  
   The original research paper by Williams et al. (2023).
 
 - **Replication Paper**  
-  `replication-paper.pdf`  
+  `papers/replication-paper.pdf`  
   Our replication study paper.
 
 - **Structured Abstract**  
-  `structured-abstract.pdf`  
+  `papers/structured-abstract.pdf`  
   The structured abstract paper we submitted before starting our replication work. 
 
 ### Code
 - **Replication Study Notebook**  
-  `replication_study.ipynb`  
+  `code/replication_study.ipynb`  
   This Jupyter Notebook contains the code used for our replication study. It can be run locally or on Google Colab. For best results, we recommend using Google Colab.
 
   **Running on Google Colab:**
-  1. Upload the `replication_study.ipynb` file to Google Colab.
+  1. Upload the `code/replication_study.ipynb` file to Google Colab.
   2. Upload `data/train.csv` and `data/test.csv` files to the Colab environment.
   3. Follow the instructions in the notebook to execute the cells.
 
