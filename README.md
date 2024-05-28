@@ -45,7 +45,6 @@ This repository contains the materials and results for our replication study of 
   `code/latex/`  
   This is our Latex source folder for `papers/replication-paper.pdf`.
 
-
 ### Overleaf
 Here is the Overleaf project [link](https://www.overleaf.com/read/gvpksbkmrckg#b33f0e) for our paper.
 
